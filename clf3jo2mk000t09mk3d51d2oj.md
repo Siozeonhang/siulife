@@ -30,8 +30,6 @@ Forsaken mail 是一个临时邮箱系统，可以创建临时邮箱来收取一
 
 [https://docs.docker.com/engine/install/debian/](https://docs.docker.com/engine/install/debian/)
 
-##### [https://docs.docker.com/engine/install/debian/](https://docs.docker.com/engine/install/debian/)
-
 \# Debian/Ubuntu
 
 curl -fsSL [https://get.docker.com](https://get.docker.com) -o [get-docker.sh](http://get-docker.sh)
