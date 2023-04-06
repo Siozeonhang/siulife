@@ -3,6 +3,7 @@ title: "心情不好，喝点酒"
 datePublished: Wed Apr 05 2023 14:20:12 GMT+0000 (Coordinated Universal Time)
 cuid: clg3s0g7v000208liadzh4ihq
 slug: 5bd5oof5lin5aw977ym5zad54k56yws
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680744464681/c2f1776c-7b42-4d3b-921b-45a04b18c306.png
 tags: 5bd5oof, 6yws
 
 ---
