@@ -3,6 +3,7 @@ title: "关于今日的小记录"
 datePublished: Sun Apr 09 2023 16:05:53 GMT+0000 (Coordinated Universal Time)
 cuid: clg9ljrs9000f09mi3dfbfxgv
 slug: 5ywz5lqo5luk5pel55qe5bcp6k6w5b2v
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681056772226/aaf14c53-bfed-4ca7-9e34-7b91b2f9d1d4.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1681056540624/17b3958a-f981-4cbd-8128-2dd77cb3496e.jpeg
 tags: 54yr5zkq, 5zad6yws
 
