@@ -2,7 +2,7 @@
 title: "关于最近几天的小记"
 datePublished: Wed Apr 19 2023 15:58:21 GMT+0000 (Coordinated Universal Time)
 cuid: clgnvolev000209kx7d7k89ca
-slug: 5ywz5lqo5pya6lr5yeg5asp55qe5bcp6k6w
+slug: 2023419
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681919451314/cd815561-744a-47b3-9c9e-771060b5b518.jpeg
 tags: 5pel5bi4, 5bcp6k6w, 6lr5ya1
 
