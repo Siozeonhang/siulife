@@ -2,7 +2,7 @@
 title: "这周六下午又接了个兼职"
 datePublished: Sat Apr 15 2023 03:23:30 GMT+0000 (Coordinated Universal Time)
 cuid: clgheyggp00010al21nv2f85y
-slug: 6lz5zgo5ywt5lil5y2i5yi5o6l5lqg5liq5yw86igm
+slug: 2023415
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681528963092/d8bf50e5-534a-49ab-ae2c-2518b34a5acf.jpeg
 tags: 6lwa6zkx, 5yw86igm
 
