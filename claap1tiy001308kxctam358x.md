@@ -5,7 +5,7 @@
 于是乎，开始在各大平台挑选笔记本了，在我对比价格/配置/便携等，最后选择了联想小新pro13 锐龙版 配置是R7-4800U 16G 512G 办公之余还能打一下游戏还有人脸识别，针不戳。
 
 
-![Ivxbvu.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1668063322029/HHs_VqgRH.jpg align="left")
+![Ivxbvu.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1668063322029/HHs_VqgRH.jpg)
 
 
 ![IvxUXz.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1668063333037/0c0x2mp8p.jpg align="left")
